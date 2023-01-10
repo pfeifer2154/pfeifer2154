@@ -2,6 +2,7 @@
 
 - 🔭 Meu foco é no front-end
 - 🌱 Estudando react native
+- 😊 Pronouns: ele/dele
 
 <div style="display: inline_block"><br>
 <img align="center" alt="SQL SERVER" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
