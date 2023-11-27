@@ -1,7 +1,7 @@
 ### Olá! Eu sou Matheus Pfeifer 👋
 
-- 🔭 Meu foco é no front-end
-- 🌱 Estudando react native
+- 🔭 Meu foco é no desenvolvimento de jogos
+- 🌱 Estudando Unreal engine
 - 😊 Pronouns: ele/dele
 
 <div style="display: inline_block"><br>
