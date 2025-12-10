@@ -1,7 +1,7 @@
 ### Olá! Eu sou Matheus Pfeifer 👋
 
-- 🔭 Meu foco é no desenvolvimento  
-- 🌱 Estudando bastante sobre APIs de modo geral  
+- 🔭 Trabalhando para evoluir como desenvolvedor e entregar projetos cada vez melhores.
+- 🌱 Atualmente aperfeiçoando minhas habilidades em desenvolvimento backend e integração de sistemas.  
 - 😊 Pronomes: ele/dele  
 
 ---
